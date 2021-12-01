@@ -19,7 +19,7 @@ export const RetroContainer = forwardRef(({ children }, ref) => (
     className="voxel-retro"
     m="auto"
     mt={['-26px', '-80px', '-160px']}
-    mb={['-32px', '-115px', '-160px']}
+    mb={['-32px', '-90px', '-160px']}
     w={[280, 480, 640]}
     h={[280, 480, 640]}
     position="relative"
